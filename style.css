@@ -1,0 +1,23 @@
+#Display {
+    border: 3px solid darkgray;
+}
+
+#scoreboard {
+    border: 2px solid darkgrey;
+    max-width: 250px;
+    width: 250px;
+    display: inline-block;
+}
+
+#instructions {
+    border: 2px solid darkgrey;
+    max-width: 250px;
+    width: 250px;
+    display: inline-block;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
